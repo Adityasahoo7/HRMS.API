@@ -1,4 +1,4 @@
-﻿namespace HRMS.MODELS
+﻿namespace HRMS.MODEL
 {
     public class Class1
     {
