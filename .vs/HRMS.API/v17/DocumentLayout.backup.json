@@ -1,12 +1,101 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\DotNet Project\\HRMS.API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC65C206-7DB0-4F25-8ED2-F42B4378AEA6}|HRMS.DAL\\HRMS.DAL.csproj|d:\\dotnet project\\hrms.api\\hrms.dal\\hrmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC65C206-7DB0-4F25-8ED2-F42B4378AEA6}|HRMS.DAL\\HRMS.DAL.csproj|solutionrelative:hrms.dal\\hrmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230B59E2-02FD-413A-AD3D-CC3A9836F942}|HRMS.API\\HRMS.API.csproj|d:\\dotnet project\\hrms.api\\hrms.api\\hrms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{230B59E2-02FD-413A-AD3D-CC3A9836F942}|HRMS.API\\HRMS.API.csproj|solutionrelative:hrms.api\\hrms.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{135F1BF1-BA76-4F31-A071-7948A762727F}|HRMS.SERVICES\\HRMS.SERVICES.csproj|d:\\dotnet project\\hrms.api\\hrms.services\\hrms.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{135F1BF1-BA76-4F31-A071-7948A762727F}|HRMS.SERVICES\\HRMS.SERVICES.csproj|solutionrelative:hrms.services\\hrms.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6DE5E1-B636-4B76-886F-03D6945722BD}|HRMS.REPOSITORY\\HRMS.REPOSITORY.csproj|d:\\dotnet project\\hrms.api\\hrms.repository\\hrms.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DE6DE5E1-B636-4B76-886F-03D6945722BD}|HRMS.REPOSITORY\\HRMS.REPOSITORY.csproj|solutionrelative:hrms.repository\\hrms.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC65C206-7DB0-4F25-8ED2-F42B4378AEA6}|HRMS.DAL\\HRMS.DAL.csproj|d:\\dotnet project\\hrms.api\\hrms.dal\\hrms.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CC65C206-7DB0-4F25-8ED2-F42B4378AEA6}|HRMS.DAL\\HRMS.DAL.csproj|solutionrelative:hrms.dal\\hrms.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HRMSDBcontext.cs",
+              "DocumentMoniker": "D:\\DotNet Project\\HRMS.API\\HRMS.DAL\\HRMSDBcontext.cs",
+              "RelativeDocumentMoniker": "HRMS.DAL\\HRMSDBcontext.cs",
+              "ToolTip": "D:\\DotNet Project\\HRMS.API\\HRMS.DAL\\HRMSDBcontext.cs",
+              "RelativeToolTip": "HRMS.DAL\\HRMSDBcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-19T19:13:59.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HRMS.API.csproj",
+              "DocumentMoniker": "D:\\DotNet Project\\HRMS.API\\HRMS.API\\HRMS.API.csproj",
+              "RelativeDocumentMoniker": "HRMS.API\\HRMS.API.csproj",
+              "ToolTip": "D:\\DotNet Project\\HRMS.API\\HRMS.API\\HRMS.API.csproj",
+              "RelativeToolTip": "HRMS.API\\HRMS.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T19:01:25.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HRMS.SERVICES.csproj",
+              "DocumentMoniker": "D:\\DotNet Project\\HRMS.API\\HRMS.SERVICES\\HRMS.SERVICES.csproj",
+              "RelativeDocumentMoniker": "HRMS.SERVICES\\HRMS.SERVICES.csproj",
+              "ToolTip": "D:\\DotNet Project\\HRMS.API\\HRMS.SERVICES\\HRMS.SERVICES.csproj",
+              "RelativeToolTip": "HRMS.SERVICES\\HRMS.SERVICES.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T19:01:25.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HRMS.REPOSITORY.csproj",
+              "DocumentMoniker": "D:\\DotNet Project\\HRMS.API\\HRMS.REPOSITORY\\HRMS.REPOSITORY.csproj",
+              "RelativeDocumentMoniker": "HRMS.REPOSITORY\\HRMS.REPOSITORY.csproj",
+              "ToolTip": "D:\\DotNet Project\\HRMS.API\\HRMS.REPOSITORY\\HRMS.REPOSITORY.csproj",
+              "RelativeToolTip": "HRMS.REPOSITORY\\HRMS.REPOSITORY.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T19:01:24.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HRMS.DAL.csproj",
+              "DocumentMoniker": "D:\\DotNet Project\\HRMS.API\\HRMS.DAL\\HRMS.DAL.csproj",
+              "RelativeDocumentMoniker": "HRMS.DAL\\HRMS.DAL.csproj",
+              "ToolTip": "D:\\DotNet Project\\HRMS.API\\HRMS.DAL\\HRMS.DAL.csproj",
+              "RelativeToolTip": "HRMS.DAL\\HRMS.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-19T19:01:20.764Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
