@@ -1,0 +1,99 @@
+Api Main Page
+Aditya Narayan Sahoo
+Engineer-S1
+Employee ID
+Email ID
+Contact No.
+Employee Status
+Department
+Reports To
+Domain :  
+Specialization :  
+
+Employeeedetails API
+
+Basic Information
+Your views on our Organisation
+Gender
+Date of birth
+About me
+Employee Id
+Blood group
+Referred Type
+Referred Name
+
+Personal Information
+Father's Name
+Mother's Name
+Place of Birth
+Mother Tongue
+Marital Status
+Passport Number
+Aadhar Number
+PAN Number
+
+Contact Information
+Mobile No.
+Landline No.
+Current Address
+State
+City/Town
+Country
+Pincode
+Alternate Mobile No.
+Permanent Address
+Emergency Contact Person
+Relation
+Emergency Contact Mobile Number
+
+Educational Information
+Graduation
+Pursuing
+Passing Grade
+
+Employment Information
+Date Of Joining
+Employment Status
+Notice Period
+Manager
+Reporting Manager
+Approvals To
+Department Name
+Designation
+Experience
+Total Previous Work Experience
+Total Experience
+Work Location (State)
+Billable
+Billable Type
+
+Bank/PF Account Information
+Bank Name
+Bank Account Number
+IFSC
+PF Account Number
+Previous PF Account Number
+UAN
+ESIC Account Number
+
+Employee Documents
+Aadharcard photo
+Pancard photo
+
+skill certificate
+
+My Asset(s)
+Laptop
+Mobile
+Sim Card
+Office Keys / Identity card
+Bills / Vouchers / Financial papers / TDS
+Company Advance / Personal Loan
+Books / Study materials
+PEN DRIVE
+WIRELESS BEYBOARD
+CABLE-MOBILE
+TYPE C TO HDMI CONNECTOR
+
+
+
