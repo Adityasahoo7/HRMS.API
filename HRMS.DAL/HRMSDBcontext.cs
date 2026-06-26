@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using HRMS.DAL.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,7 +15,7 @@ namespace HRMS.DAL
                 
         }
 
-        public DbSet<ModelName> tablename { get;set }
+        public DbSet<Employee> Employee { get; set; }
 
     }
 }

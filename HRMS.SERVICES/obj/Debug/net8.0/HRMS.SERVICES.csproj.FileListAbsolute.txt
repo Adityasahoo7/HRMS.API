@@ -1,0 +1,15 @@
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\bin\Debug\net8.0\HRMS.SERVICES.deps.json
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\bin\Debug\net8.0\HRMS.SERVICES.runtimeconfig.json
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\bin\Debug\net8.0\HRMS.SERVICES.dll
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\bin\Debug\net8.0\HRMS.SERVICES.pdb
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\obj\Debug\net8.0\HRMS.SERVICES.csproj.AssemblyReference.cache
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\obj\Debug\net8.0\HRMS.SERVICES.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\obj\Debug\net8.0\HRMS.SERVICES.AssemblyInfoInputs.cache
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\obj\Debug\net8.0\HRMS.SERVICES.AssemblyInfo.cs
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\obj\Debug\net8.0\HRMS.SERVICES.csproj.CoreCompileInputs.cache
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\obj\Debug\net8.0\HRMS.SERVICES.sourcelink.json
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\obj\Debug\net8.0\HRMS.SERVICES.dll
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\obj\Debug\net8.0\refint\HRMS.SERVICES.dll
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\obj\Debug\net8.0\HRMS.SERVICES.pdb
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\obj\Debug\net8.0\HRMS.SERVICES.genruntimeconfig.cache
+D:\DotNet Project\HRMS.API\HRMS.SERVICES\obj\Debug\net8.0\ref\HRMS.SERVICES.dll

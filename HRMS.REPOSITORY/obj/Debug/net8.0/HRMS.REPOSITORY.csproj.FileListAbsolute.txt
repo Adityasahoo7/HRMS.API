@@ -1,0 +1,15 @@
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\bin\Debug\net8.0\HRMS.REPOSITORY.deps.json
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\bin\Debug\net8.0\HRMS.REPOSITORY.runtimeconfig.json
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\bin\Debug\net8.0\HRMS.REPOSITORY.dll
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\bin\Debug\net8.0\HRMS.REPOSITORY.pdb
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\HRMS.REPOSITORY.csproj.AssemblyReference.cache
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\HRMS.REPOSITORY.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\HRMS.REPOSITORY.AssemblyInfoInputs.cache
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\HRMS.REPOSITORY.AssemblyInfo.cs
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\HRMS.REPOSITORY.csproj.CoreCompileInputs.cache
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\HRMS.REPOSITORY.sourcelink.json
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\HRMS.REPOSITORY.dll
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\refint\HRMS.REPOSITORY.dll
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\HRMS.REPOSITORY.pdb
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\HRMS.REPOSITORY.genruntimeconfig.cache
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\ref\HRMS.REPOSITORY.dll

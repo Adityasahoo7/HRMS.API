@@ -1,0 +1,15 @@
+D:\DotNet Project\HRMS.API\HRMS.DAL\obj\Debug\net8.0\HRMS.DAL.csproj.AssemblyReference.cache
+D:\DotNet Project\HRMS.API\HRMS.DAL\obj\Debug\net8.0\HRMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Project\HRMS.API\HRMS.DAL\obj\Debug\net8.0\HRMS.DAL.AssemblyInfoInputs.cache
+D:\DotNet Project\HRMS.API\HRMS.DAL\obj\Debug\net8.0\HRMS.DAL.AssemblyInfo.cs
+D:\DotNet Project\HRMS.API\HRMS.DAL\obj\Debug\net8.0\HRMS.DAL.csproj.CoreCompileInputs.cache
+D:\DotNet Project\HRMS.API\HRMS.DAL\obj\Debug\net8.0\HRMS.DAL.sourcelink.json
+D:\DotNet Project\HRMS.API\HRMS.DAL\bin\Debug\net8.0\HRMS.DAL.deps.json
+D:\DotNet Project\HRMS.API\HRMS.DAL\bin\Debug\net8.0\HRMS.DAL.runtimeconfig.json
+D:\DotNet Project\HRMS.API\HRMS.DAL\bin\Debug\net8.0\HRMS.DAL.dll
+D:\DotNet Project\HRMS.API\HRMS.DAL\bin\Debug\net8.0\HRMS.DAL.pdb
+D:\DotNet Project\HRMS.API\HRMS.DAL\obj\Debug\net8.0\HRMS.DAL.dll
+D:\DotNet Project\HRMS.API\HRMS.DAL\obj\Debug\net8.0\refint\HRMS.DAL.dll
+D:\DotNet Project\HRMS.API\HRMS.DAL\obj\Debug\net8.0\HRMS.DAL.pdb
+D:\DotNet Project\HRMS.API\HRMS.DAL\obj\Debug\net8.0\HRMS.DAL.genruntimeconfig.cache
+D:\DotNet Project\HRMS.API\HRMS.DAL\obj\Debug\net8.0\ref\HRMS.DAL.dll
