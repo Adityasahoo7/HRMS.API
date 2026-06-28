@@ -1,0 +1,72 @@
+HRMSDB
+│
+├── 🔐 Auth
+│   ├── Users
+│   ├── Roles
+│   ├── UserRoles
+│   └── RefreshTokens
+│
+├── 👤 Employee Core
+│   ├── Employees
+│   ├── EmployeePersonalInfo
+│   ├── EmployeeContactInfo
+│   ├── EmployeeEducation
+│   ├── EmployeeEmployment
+│   └── EmployeeBankDetails
+│
+├── 📋 Reference / Lookup
+│   ├── Departments
+│   ├── Designations
+│   ├── EmployeeStatus
+│   ├── EmploymentTypes          ← ADD
+│   └── WorkLocations
+│
+├── 📁 Documents & Assets
+│   ├── EmployeeDocuments
+│   ├── Assets                   ← master catalog
+│   └── EmployeeAssets           ← assignment log
+│
+├── 📅 Holidays
+│   └── Holidays
+│
+├── 🏗️ Projects
+│   ├── Projects
+│   └── EmployeeProjects
+│
+├── ⏱️ Attendance
+│   ├── Shifts
+│   ├── EmployeeShiftMapping
+│   ├── Attendance
+│   ├── AttendanceLogs
+│   └── AttendanceRegularization
+│
+├── 🌴 Leave
+│   ├── LeaveTypes
+│   ├── LeavePolicies
+│   ├── EmployeeLeaveBalances
+│   ├── LeaveApplications
+│   └── LeaveApprovalHistory
+│
+├── 💰 Payroll
+│   ├── SalaryStructures
+│   ├── SalaryComponents
+│   ├── EmployeeSalaryComponents
+│   ├── SalaryRevisions          ← ADD
+│   ├── Payrolls
+│   ├── PayrollDetails
+│   ├── Payslips
+│   └── TaxDeclarations
+│
+├── 🚪 Separation
+│   ├── Separations
+│   └── ClearanceApprovals
+│
+├── 📊 Reports & AI
+│   ├── ReportExports            ← ADD
+│   └── AISearchLogs             ← ADD
+│
+├── 🔔 Notifications
+│   └── Notifications
+│
+└── 📜 Audit
+    └── AuditLogs
