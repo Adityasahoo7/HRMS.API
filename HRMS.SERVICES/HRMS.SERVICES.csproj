@@ -23,4 +23,9 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\HRMS.DAL\HRMS.DAL.csproj" />
+    <ProjectReference Include="..\HRMS.REPOSITORY\HRMS.REPOSITORY.csproj" />
+  </ItemGroup>
+
 </Project>

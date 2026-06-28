@@ -1491,6 +1491,33 @@
             "rid": "win"
           }
         }
+      },
+      "HRMS.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.28"
+        },
+        "compile": {
+          "bin/placeholder/HRMS.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HRMS.DAL.dll": {}
+        }
+      },
+      "HRMS.REPOSITORY/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "HRMS.DAL": "1.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.28"
+        },
+        "compile": {
+          "bin/placeholder/HRMS.REPOSITORY.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HRMS.REPOSITORY.dll": {}
+        }
       }
     }
   },
@@ -3993,10 +4020,22 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "HRMS.DAL/1.0.0": {
+      "type": "project",
+      "path": "../HRMS.DAL/HRMS.DAL.csproj",
+      "msbuildProject": "../HRMS.DAL/HRMS.DAL.csproj"
+    },
+    "HRMS.REPOSITORY/1.0.0": {
+      "type": "project",
+      "path": "../HRMS.REPOSITORY/HRMS.REPOSITORY.csproj",
+      "msbuildProject": "../HRMS.REPOSITORY/HRMS.REPOSITORY.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "HRMS.DAL >= 1.0.0",
+      "HRMS.REPOSITORY >= 1.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.28",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.28",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.28"
@@ -4033,7 +4072,14 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\DotNet Project\\HRMS.API\\HRMS.DAL\\HRMS.DAL.csproj": {
+              "projectPath": "D:\\DotNet Project\\HRMS.API\\HRMS.DAL\\HRMS.DAL.csproj"
+            },
+            "D:\\DotNet Project\\HRMS.API\\HRMS.REPOSITORY\\HRMS.REPOSITORY.csproj": {
+              "projectPath": "D:\\DotNet Project\\HRMS.API\\HRMS.REPOSITORY\\HRMS.REPOSITORY.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

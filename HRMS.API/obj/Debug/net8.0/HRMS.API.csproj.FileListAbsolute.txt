@@ -145,3 +145,9 @@ D:\DotNet Project\HRMS.API\HRMS.API\obj\Debug\net8.0\refint\HRMS.API.dll
 D:\DotNet Project\HRMS.API\HRMS.API\obj\Debug\net8.0\HRMS.API.pdb
 D:\DotNet Project\HRMS.API\HRMS.API\obj\Debug\net8.0\HRMS.API.genruntimeconfig.cache
 D:\DotNet Project\HRMS.API\HRMS.API\obj\Debug\net8.0\ref\HRMS.API.dll
+D:\DotNet Project\HRMS.API\HRMS.API\bin\Debug\net8.0\HRMS.DAL.dll
+D:\DotNet Project\HRMS.API\HRMS.API\bin\Debug\net8.0\HRMS.REPOSITORY.dll
+D:\DotNet Project\HRMS.API\HRMS.API\bin\Debug\net8.0\HRMS.SERVICES.dll
+D:\DotNet Project\HRMS.API\HRMS.API\bin\Debug\net8.0\HRMS.DAL.pdb
+D:\DotNet Project\HRMS.API\HRMS.API\bin\Debug\net8.0\HRMS.SERVICES.pdb
+D:\DotNet Project\HRMS.API\HRMS.API\bin\Debug\net8.0\HRMS.REPOSITORY.pdb

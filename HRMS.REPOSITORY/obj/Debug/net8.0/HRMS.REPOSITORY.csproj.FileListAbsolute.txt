@@ -13,3 +13,6 @@ D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\refint\HRMS.REPOSITO
 D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\HRMS.REPOSITORY.pdb
 D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\HRMS.REPOSITORY.genruntimeconfig.cache
 D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\ref\HRMS.REPOSITORY.dll
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\bin\Debug\net8.0\HRMS.DAL.dll
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\bin\Debug\net8.0\HRMS.DAL.pdb
+D:\DotNet Project\HRMS.API\HRMS.REPOSITORY\obj\Debug\net8.0\HRMS.REP.1F2F419B.Up2Date
