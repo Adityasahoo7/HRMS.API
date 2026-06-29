@@ -112,7 +112,7 @@
               "RelativeDocumentMoniker": "HRMS.DAL\\Models\\Documents_Asset\\EmployeeAsset.cs",
               "ToolTip": "D:\\DotNet Project\\HRMS.API\\HRMS.DAL\\Models\\Documents_Asset\\EmployeeAsset.cs",
               "RelativeToolTip": "HRMS.DAL\\Models\\Documents_Asset\\EmployeeAsset.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBIAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-28T16:44:14.973Z",
               "EditorCaption": ""
@@ -127,8 +127,7 @@
               "RelativeToolTip": "HRMS.DAL\\Models\\Documents_Asset\\Asset.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T16:41:20.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T16:41:20.018Z"
             },
             {
               "$type": "Document",
@@ -140,8 +139,7 @@
               "RelativeToolTip": "HRMS.DAL\\Models\\Documents_Asset\\EmployeeDocument.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAQwBEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T16:40:30.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T16:40:30.399Z"
             },
             {
               "$type": "Document",
@@ -153,8 +151,7 @@
               "RelativeToolTip": "HRMS.DAL\\Models\\EmployeeCore\\EmployeeBankDetails.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wA8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T16:40:01.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T16:40:01.687Z"
             },
             {
               "$type": "Document",
@@ -166,8 +163,7 @@
               "RelativeToolTip": "HRMS.DAL\\Models\\EmployeeCore\\EmployeeEmployment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T16:39:37.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T16:39:37.676Z"
             },
             {
               "$type": "Document",
@@ -179,8 +175,7 @@
               "RelativeToolTip": "HRMS.DAL\\Models\\EmployeeCore\\EmployeeEducation.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA1wBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T16:39:22.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T16:39:22.05Z"
             },
             {
               "$type": "Document",
@@ -192,8 +187,7 @@
               "RelativeToolTip": "HRMS.DAL\\Models\\EmployeeCore\\EmployeeContactInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T16:38:12.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T16:38:12.593Z"
             },
             {
               "$type": "Document",
@@ -205,8 +199,7 @@
               "RelativeToolTip": "HRMS.DAL\\Models\\EmployeeCore\\EmployeePersonalInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T16:21:55.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T16:21:55.576Z"
             },
             {
               "$type": "Document",
@@ -218,8 +211,7 @@
               "RelativeToolTip": "HRMS.DAL\\Models\\EmployeeCore\\Employee.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAIwBcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T16:21:34.286Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T16:21:34.286Z"
             },
             {
               "$type": "Document",
@@ -231,8 +223,7 @@
               "RelativeToolTip": "HRMS.DAL\\Models\\AUTH_MODULE\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T16:18:30.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T16:18:30.269Z"
             },
             {
               "$type": "Document",
@@ -244,8 +235,7 @@
               "RelativeToolTip": "HRMS.DAL\\Models\\AUTH_MODULE\\UserRole.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T16:17:51.32Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T16:17:51.32Z"
             },
             {
               "$type": "Document",
@@ -257,8 +247,7 @@
               "RelativeToolTip": "HRMS.DAL\\Models\\AUTH_MODULE\\RefreshToken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T16:16:36.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T16:16:36.102Z"
             },
             {
               "$type": "Document",
@@ -270,8 +259,7 @@
               "RelativeToolTip": "HRMS.DAL\\Models\\AUTH_MODULE\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T16:15:55.964Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T16:15:55.964Z"
             },
             {
               "$type": "Document",
@@ -283,8 +271,7 @@
               "RelativeToolTip": "HRMS.DAL\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T16:14:22.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T16:14:22.068Z"
             },
             {
               "$type": "Document",
@@ -332,8 +319,7 @@
               "RelativeToolTip": "HRMS.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-06-26T06:39:14.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-26T06:39:14.62Z"
             },
             {
               "$type": "Document",

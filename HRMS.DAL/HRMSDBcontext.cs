@@ -16,6 +16,7 @@ namespace HRMS.DAL
         }
 
         public DbSet<Employee> Employee { get; set; }
+        public DbSet<BaseEntity> BaseEntity { get; set; }
 
     }
 }
