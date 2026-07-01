@@ -37,7 +37,7 @@ namespace HRMS.DAL
         public DbSet<EmployeePersonalInfo> EmployeePersonalInfoDS { get; set; }
 
 
-        //DOCUMENT ASET
+        //DOCUMENT ASSET
 
         public DbSet<Asset> AssetDS { get; set; }
         public DbSet<EmployeeAsset> EmployeeAssetDS { get; set; }
