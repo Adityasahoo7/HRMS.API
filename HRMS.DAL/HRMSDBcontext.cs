@@ -1,5 +1,6 @@
 ﻿using HRMS.DAL.Models;
 using HRMS.DAL.Models.AUTH_MODULE;
+using HRMS.DAL.Models.Documents_Asset;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -32,11 +33,15 @@ namespace HRMS.DAL
         public DbSet<EmployeeContactInfo> EmployeeContactInfoDS { get; set; }
         public DbSet<EmployeeEducation> EmployeeEducationsDS { get; set; }
 
-        public DbSet<EmployeeEmployment> EmployeeEmploymentDS { get; set; }
+        public DbSet<EmployeeEmployment> EmployeeEmploymentDS { get; set; }                                                                                                                                                                                                 
         public DbSet<EmployeePersonalInfo> EmployeePersonalInfoDS { get; set; }
 
 
+        //DOCUMENT ASET
 
+        public DbSet<Asset> AssetDS { get; set; }
+        public DbSet<EmployeeAsset> EmployeeAssetDS { get; set; }
+        public DbSet<EmployeeDocument> EmployeeDocumentDS { get; set; }
 
 
     }
